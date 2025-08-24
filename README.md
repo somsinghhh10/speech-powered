@@ -38,4 +38,4 @@ Things to remember -
 9. Some antiviruses may block the script as it uses microphone.
 10. Trust the script and if you don't then you can scan it on some trusted websites.
 11. Please follow - https://instagram.com/somsinghhh10/
-12. -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
