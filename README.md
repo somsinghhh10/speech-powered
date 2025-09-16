@@ -39,3 +39,12 @@ Things to remember -
 10. Trust the script and if you don't then you can scan it on some trusted websites.
 11. Please follow - https://instagram.com/somsinghhh10/
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Speech_Calculator using steps -
+1. Install the calc_requirements.txt by pip install calc_requirements.txt.
+2. Run the script.
+3. Wait for it until it says "Voice calculator ready. Say calculator to activate."
+4. Then it might ask for your microphone access to listen to your commands.
+5. Say "calcuator" to start the calculator.
+6. Then it would reply "Calculator activated. Listening for math commands."
+7. Now you have to just say the questions like add 4 + 4 or multiply 5 into 5 or divide 87 by 3 or subtratct 85 from 134 just anything.
+*Read Things  to remember for more*
