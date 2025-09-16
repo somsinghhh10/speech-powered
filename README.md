@@ -47,4 +47,4 @@ Speech_Calculator using steps -
 5. Say "calcuator" to start the calculator.
 6. Then it would reply "Calculator activated. Listening for math commands."
 7. Now you have to just say the questions like add 4 + 4 or multiply 5 into 5 or divide 87 by 3 or subtratct 85 from 134 just anything.
-*Read Things  to remember for more*
+#Read Things  to remember for more
