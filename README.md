@@ -42,7 +42,7 @@ Steps to use:
 🧮 Speech-Calculator
 Steps to use:
 1. Install requirements:
-   pip install -r calc_requirements.txt
+   pip install -r requirements.txt
 
 2. Run the script.
 3. Wait until it says → “Voice calculator ready. Say calculator to activate.”
@@ -56,7 +56,7 @@ Steps to use:
 7. To pause/shutdown ➝ Say “calculator shutdown”
 ⚡ Things to Remember:
 - Start every command with add / subtract / multiply / divide.
-- Must install requirements (calc_requirements.txt).
+- Must install requirements (requirements.txt).
 - Needs mic permission 🎙️
 - Some antiviruses might block 🚫
 - ✅ Safe, scan if you like.
