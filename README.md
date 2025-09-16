@@ -19,7 +19,7 @@ Thing to remember -
 6. Please follow - https://instagram.com/somsinghhh10/
 ------------------------------------------------------------------------------------------------------------------------------
 Speech-Assistant using steps -
-1. Download the required libraries by running this command in your terminal - pip install pyttsx3 wikipedia speech_recognition
+1. Download the required libraries by installing requirements.txt
 2. Run the script.
 3. Wait for 3 seconds to set up the script.
 4. Say 'search' before the thing you want to search. For example if you want to search for Cristiano Ronaldo then say - 'search Cristiano Ronaldo'.
@@ -31,11 +31,11 @@ Things to remember -
 2. The script only works for the scientific or extremely famous words.
 3. When the script tells you to be more specific then don't try to search for same thing instead tell it more about the word.
 4. If No page found error appears then I would like to say you Sorry beacuse the script can't find that word on internet.
-5. The results given by script changes according to the wikipedia results and can tell wrong definitions if wrong definitions are provided on the wikipedia by people.
+5. The results given by script changes according to the wikipedia results and can tell wrong definitions if wrong definitions are provided on the wikipedia.
 6. The script may mistake and search for other thing.
 7. The script focuses on searching for scientific words and can be used as a educational campanion.
 8. The script uses your microphone for input so consider allowing it to use your microphone.
-9. Some antiviruses may block the script as it uses microphone.
+9. Some antiviruses may block the script.
 10. Trust the script and if you don't then you can scan it on some trusted websites.
 11. Please follow - https://instagram.com/somsinghhh10/
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
